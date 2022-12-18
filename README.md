@@ -1,7 +1,7 @@
 # HKU-COMP3230-Shell
 
-## Feature
-  * Simulate a shell base on linux terminal.
+## Introduction
+  * Simulate a shell base on linux terminal by fork(), pipe() and signal handling.
 
 ## Quick Start
 
