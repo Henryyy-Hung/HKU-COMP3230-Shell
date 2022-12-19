@@ -1,7 +1,7 @@
 # HKU-COMP3230-Shell
 
 ## Introduction
-  * Simulate a shell base on linux terminal by fork(), pipe() and signal handling. 
+  * Simulate a shell base on linux terminal by fork(), pipe(), signal handling and so on.
   * Score: 11.5/12 (compulsory), 4/4 (bonus). 
 
 ## Quick Start
